@@ -246,7 +246,9 @@ button {
                 grid-template-rows:100px calc(100vh - 100px - 100px)  ;
                 grid-template-columns: 200px calc(100vw - 200px) ;
                 }
-        
+                .info  li{
+                    display: unset;
+                }
                 .header {
                     display: flex;
                    flex-direction: row;
